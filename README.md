@@ -18,4 +18,5 @@ I also have knowledge about:
 
 Profiles: 
 Portfolio: https://marcooab.github.io/personal_portfolio/
+
 Linkedin : https://www.linkedin.com/in/marcoaricardo/
