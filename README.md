@@ -1,6 +1,6 @@
 ### � Hi there I'm called Marco, a brazilian Frontend Developer. Currently living in Portugal!!! �
 
-*** Currently doing the App Academy's 24 Weeks Software Engineering Bootcamp
+# Currently doing the App Academy's 24 Weeks Software Engineering Bootcamp
 Program.
 
 
