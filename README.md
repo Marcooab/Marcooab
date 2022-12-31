@@ -9,17 +9,16 @@
 
 I also have knowledge about:
 
-- SQL
+- Styled Components
+- TypeScript
 - NodeJS
+- API Restfull
+- SQL
 - SCRUM 
 - DOM manipulation
-- Styled Components 
-- API Restfull
 - Python
 - Java
 
-
-Profiles: 
 
 Portfolio: https://marcooab.github.io/personal_portfolio/
 
