@@ -1,4 +1,5 @@
-�# Hi there I'm called Marco!
+#Hi there I'm called Marco!#
+
 Brazilian Frontend Developer. Currently living in Portugal!!! �
 
 - 🔭 Currently doing the sixth and last month of MasterSchool Bootcamp focused em Data Analysis(Python, MySql, GoogleSheets, Tableau)
