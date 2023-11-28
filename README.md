@@ -1,8 +1,8 @@
 # Hi there I'm called Marco!
 
-Brazilian Frontend Developer. Currently living in Portugal!!! �
+Brazilian Frontend Developer. Currently living in Portugal!!!
 
-- 🔭 Currently doing the sixth and last month of MasterSchool Bootcamp focused em Data Analysis(Python, MySql, GoogleSheets, Tableau)
+- 🔭 Currently doing the sixth and last month of MasterSchool Bootcamp focused in Data Analysis(TECHS: Python, MySql, GoogleSheets, Tableau)
 - Analysis and Systems Development student. Graduation in 06/2024.
   
 - 🌱 Main Skills:
