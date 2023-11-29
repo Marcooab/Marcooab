@@ -7,7 +7,7 @@ Brazilian Frontend Developer. Currently living in Portugal!!!
   
 - 🌱 Main Skills:
  
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,sass,typescript,mysql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,sass,typescript,mysql)](https://skillicons.dev)
 
 I also have knowledge about:
 
