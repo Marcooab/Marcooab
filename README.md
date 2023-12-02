@@ -13,8 +13,6 @@ I also know about:
 
 - Styled Components, CSS.modules
 - Bootstrap, Grid/Flexbox
-- TypeScript
-- NodeJS
 - API Restful
 - Fetch, Axios
 - SCRUM 
