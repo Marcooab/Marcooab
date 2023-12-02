@@ -2,14 +2,14 @@
 
 Brazilian Frontend Developer. Currently living in Portugal!!!
 
-- 🔭 Currently doing the sixth and last month of MasterSchool Bootcamp focused in Data Analysis(TECHS: Python, MySql, GoogleSheets, Tableau)
+- 🔭 Currently in the sixth and final month of MasterSchool Bootcamp focused on Data Analysis(TECHS: Python, MySql, GoogleSheets, Tableau)
 - Analysis and Systems Development student. Graduation in 06/2024.
   
 - 🌱 Main Skills:
  
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,sass,typescript,mysql)](https://skillicons.dev)
 
-I also have knowledge about:
+I also know about:
 
 - Styled Components, CSS.modules
 - Bootstrap, Grid/Flexbox
