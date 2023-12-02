@@ -19,6 +19,6 @@ I also know about:
 - DOM manipulation
 - Google Sheets/Excel
 
-Portfolio: [https://marcooab.github.io/personal_portfolio/]
+Portfolio: [[https://marcooab.github.io/personal_portfolio/]](https://marcooab.github.io/ownPortfolio/)
 
 Linkedin: https://www.linkedin.com/in/marcoaricardo/
