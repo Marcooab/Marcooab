@@ -18,6 +18,7 @@ I also know about:
 - SCRUM 
 - DOM manipulation
 - Google Sheets/Excel
+- Tableau
 
 Portfolio: [[https://marcooab.github.io/personal_portfolio/]](https://marcooab.github.io/ownPortfolio/)
 
